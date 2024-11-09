@@ -1,5 +1,5 @@
 # What is this?
-This is just a quick writeup on colliderscript that I'm making for BitDevs. I only read around 40-60% of the paper today and skimmed around a lot, so I may get things wrong but I think the basic gist is there. I'm planning on updating this as I spend more time to digest the paper, but if you want more of my thoughts on this then [come through](https://www.meetup.com/miami-bitdevs/events/304310570) :)
+This is just a quick writeup on [ColliderScript](https://colliderscript.co/colliderscript.pdf) that I'm making for BitDevs. I only read around 40-60% of the paper today and skimmed around a lot, so I may get things wrong but I think the basic gist is there. I'm planning on updating this as I spend more time to digest the paper, but if you want more of my thoughts on this then [come through](https://www.meetup.com/miami-bitdevs/events/304310570) :)
 
 # Some helpful terms
 
